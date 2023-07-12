@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java, DSA, Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mmail: kdivyanshu1926@gmail.com
+- 📫 How to reach me mmail: divyanshuk9515@gmail.com
 
 
 <!---
