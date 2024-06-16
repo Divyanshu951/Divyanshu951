@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Divyanshu951
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java, DSA, Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mmail: divyanshuk9515@gmail.com
 
 
