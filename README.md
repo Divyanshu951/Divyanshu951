@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Divyanshu
 - 👀 I’m interested in web Dev and AI/ML currently learing React.
 - 🌱 I’m currently learning Java, DSA, Web Dev
-- 📫 How to reach me: https://x.com/GiveMeAJob_ 
+- 📫 <https://x.com/GiveMeAJob_>
+
