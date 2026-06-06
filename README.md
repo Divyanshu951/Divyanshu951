@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Divyanshu951&color=brightgreen)
 
-h1 align="center">🚀 Languages & Tools</h1>
+<h1 align="center">🚀 Languages & Tools</h1>
 
 <h3 align='center'>🏝️ Front End</h3>
 
