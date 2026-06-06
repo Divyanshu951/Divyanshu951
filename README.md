@@ -54,6 +54,10 @@
       <img src="icons/styled-components.svg" alt="Styled Components" height="40"/>
       <br/>Styled Components
     </td>
+    <td align="center" height="70" width="70">
+      <div alt="React" width="40" height="40"></div>
+      <br/> 
+    </td>
     <!-- <td align="center" height="70" width="70">
       <img src="icons/sass.svg" alt="SASS" width="40" height="40"/>
       <br/>SASS
