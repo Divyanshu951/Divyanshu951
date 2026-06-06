@@ -56,7 +56,7 @@
       <br/>Redux Toolkit
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/tanstack-query.svg" alt="TanStack Query" width="40" height="40"/>
+      <img src="icons/tanstack.png" alt="TanStack Query" width="40" height="40"/>
       <br/>TanStack Query
     </td>
   </tr>
@@ -118,7 +118,7 @@
 - Learning Node.js and backend development
 - Preparing for Frontend and Full Stack Developer roles
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu951&show_icons=true" />
@@ -126,4 +126,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu951&layout=compact" />
-</p>
+</p> -->
