@@ -34,17 +34,17 @@
     </td>
   </tr>
   <tr>
-    <!-- <td align="center" height="70" width="70">
-      <img src="icons/next.svg" alt="React" width="40" height="40"/>
-      <br/>Next.js
-    </td> -->
     <td align="center" height="70" width="70">
-      <div alt="React" width="40" height="40"></div>
-      <br/> 
+      <img src="icons/tailwind.svg" alt="tailwind" width="40" height="40"/>
+      <br/>Tailwind CSS
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/react.svg" alt="React" width="40" height="40"/>
-      <br/>React Native
+      <img src="icons/zustand.svg" alt="tailwind" width="40" height="40"/>
+      <br/>Zustand
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/motion.svg" alt="tailwind" width="40" height="40"/>
+      <br/>Framer motion
     </td>
     <td align="center" height="70" width="70">
       <img src="icons/redux.svg" alt="Redux" width="40" height="40"/>
@@ -54,14 +54,6 @@
       <img src="icons/styled-components.svg" alt="Styled Components" height="40"/>
       <br/>Styled Components
     </td>
-    <td align="center" height="70" width="70">
-      <div alt="React" width="40" height="40"></div>
-      <br/> 
-    </td>
-    <!-- <td align="center" height="70" width="70">
-      <img src="icons/sass.svg" alt="SASS" width="40" height="40"/>
-      <br/>SASS
-    </td> -->
   </tr>
 </table>
 
@@ -96,13 +88,6 @@
       <img src="icons/vite.svg" alt="Vite" width="40" height="40"/>
       <br/>Vite
     </td>
-    <!-- <td align="center" height="70" width="70">
-      <img src="icons/aws.svg" alt="GitLab" width="40" height="40"/>
-      <br/>AWS
-    </td> -->
-    <td align="center" height="70" width="70">
-      <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
-      <br/>Figma
-    </td>
+    
   </tr>
 </table>
