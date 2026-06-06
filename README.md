@@ -39,6 +39,10 @@
       <br/>Next.js
     </td> -->
     <td align="center" height="70" width="70">
+      <div alt="React" width="40" height="40"></div>
+      <br/> 
+    </td>
+    <td align="center" height="70" width="70">
       <img src="icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React Native
     </td>
