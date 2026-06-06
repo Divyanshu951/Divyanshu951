@@ -34,10 +34,10 @@
     </td>
   </tr>
   <tr>
-    <td align="center" height="70" width="70">
+    <!-- <td align="center" height="70" width="70">
       <img src="icons/next.svg" alt="React" width="40" height="40"/>
       <br/>Next.js
-    </td>
+    </td> -->
     <td align="center" height="70" width="70">
       <img src="icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React Native
@@ -50,14 +50,14 @@
       <img src="icons/styled-components.svg" alt="Styled Components" height="40"/>
       <br/>Styled Components
     </td>
-    <td align="center" height="70" width="70">
+    <!-- <td align="center" height="70" width="70">
       <img src="icons/sass.svg" alt="SASS" width="40" height="40"/>
       <br/>SASS
-    </td>
+    </td> -->
   </tr>
 </table>
 
-<h3 align='center'>👷🏻 Back End</h3>
+<!-- <h3 align='center'>👷🏻 Back End</h3>
 
 <table align="center">
   <tr>
@@ -74,7 +74,7 @@
       <br/>PostgreSQL
     </td>
   </tr>
-</table>
+</table> -->
 
 <h3 align='center'>⚗️ Tools</h3>
 
@@ -88,10 +88,10 @@
       <img src="icons/vite.svg" alt="Vite" width="40" height="40"/>
       <br/>Vite
     </td>
-    <td align="center" height="70" width="70">
+    <!-- <td align="center" height="70" width="70">
       <img src="icons/aws.svg" alt="GitLab" width="40" height="40"/>
       <br/>AWS
-    </td>
+    </td> -->
     <td align="center" height="70" width="70">
       <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
       <br/>Figma
