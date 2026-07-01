@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divyanshu
 
-- 💻 Aspiring Full Stack Developer
+- 💻 Full Stack Developer
 - 🚀 Interested in Web Development and AI/ML
 - 🌱 Currently learning Node.js and building full-stack applications
 - 📫 X (Twitter): https://x.com/usualTechNerd
