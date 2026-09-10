@@ -35,7 +35,7 @@ Modern URL Shortener & Analytics Platform.
 
 ---
 
-### 🎬 <a href="YOUR_MOVIZZ_LIVE_LINK">Movizz</a>
+### 🎬 <a href="https://movizz.divyanshudev.in">Movizz</a>
 
 Movie discovery platform with search, trending content, and detailed movie information.
 
