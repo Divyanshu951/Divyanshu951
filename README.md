@@ -1,129 +1,208 @@
 # 👋 Hi, I'm Divyanshu
 
-- 💻 Full Stack Developer
-- 🚀 Interested in Web Development and AI/ML
-- 🌱 Currently learning Node.js and building full-stack applications
-- 📫 X (Twitter): https://x.com/usualTechNerd
-- 📧 Email: [divyanshuk9515@gmail.com](mailto:divyanshuk9515@gmail.com)
+💻 Full Stack Developer focused on building modern web applications with React, Next.js, TypeScript, and PostgreSQL.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Divyanshu951&color=brightgreen)
+🚀 Interested in Web Development, SaaS Products, and AI-powered applications.
 
-<h1 align="center">🚀 Tech Stack</h1>
+🌱 Currently learning backend architecture, system design fundamentals, and scalable application development.
 
-<h3 align="center">🎨 Front End</h3>
+📫 X (Twitter): https://x.com/usualTechNerd
+📧 Email: [divyanshuk9515@gmail.com](mailto:divyanshuk9515@gmail.com)
 
-<table align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=Divyanshu951\&color=brightgreen)
+
+---
+
+# 🚀 Tech Stack
+
+## 🎨 Frontend
+
+<table>
   <tr>
-    <td align="center" height="70" width="70">
-      <img src="icons/html5.svg" alt="HTML5" width="40" height="40"/>
-      <br/>HTML5
+    <td align="center" width="90">
+      <img src="icons/html5.svg" width="40" />
+      <br>HTML5
     </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/css3.svg" alt="CSS3" width="40" height="40"/>
-      <br/>CSS3
+    <td align="center" width="90">
+      <img src="icons/css3.svg" width="40" />
+      <br>CSS3
     </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-      <br/>JavaScript
+    <td align="center" width="90">
+      <img src="icons/javascript.svg" width="40" />
+      <br>JavaScript
     </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-      <br/>TypeScript
+    <td align="center" width="90">
+      <img src="icons/typescript.svg" width="40" />
+      <br>TypeScript
     </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/react.svg" alt="React" width="40" height="40"/>
-      <br/>React
+    <td align="center" width="90">
+      <img src="icons/react.svg" width="40" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="icons/next.svg" width="40" />
+      <br>Next.js
     </td>
   </tr>
   <tr>
-    <td align="center" height="70" width="70">
-      <img src="icons/tailwind.svg" alt="Tailwind CSS" width="40" height="40"/>
-      <br/>Tailwind CSS
+    <td align="center" width="90">
+      <img src="icons/tailwind.svg" width="40" />
+      <br>Tailwind CSS
     </td>
-  </tr>
-</table>
-
-<h3 align="center">🧠 State Management & Data Fetching</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" height="70" width="70">
-      <img src="icons/zustand.svg" alt="Zustand" width="40" height="40"/>
-      <br/>Zustand
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/redux.svg" alt="Redux Toolkit" width="40" height="40"/>
-      <br/>Redux Toolkit
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/tanstack.png" alt="TanStack Query" width="40" height="40"/>
-      <br/>TanStack Query
+    <td align="center" width="90">
+      <img src="icons/motion.svg" width="40" />
+      <br>Framer Motion
     </td>
   </tr>
 </table>
 
-<h3 align="center">⚛️ React Ecosystem</h3>
+## ⚡ Backend
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" height="70" width="70">
-      <img src="icons/react-router.svg" alt="React Router" width="40" height="40"/>
-      <br/>React Router
+    <td align="center" width="90">
+      <img src="icons/nodejs.svg" width="40" />
+      <br>Node.js
     </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/react-hook-form.svg" alt="React Hook Form" width="40" height="40"/>
-      <br/>React Hook Form
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/zod.svg" alt="Zod" width="40" height="40"/>
-      <br/>Zod
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/motion.svg" alt="Framer Motion" width="40" height="40"/>
-      <br/>Framer Motion
+    <td align="center" width="90">
+      <img src="icons/next.svg" width="40" />
+      <br>Server Actions
     </td>
   </tr>
 </table>
 
-<h3 align="center">🛠️ Tools</h3>
+## 🗄️ Database & ORM
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" height="70" width="70">
-      <img src="icons/git.svg" alt="Git" width="40" height="40"/>
-      <br/>Git
+    <td align="center" width="90">
+      <img src="icons/postgres.svg" width="40" />
+      <br>PostgreSQL
     </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/vite.svg" alt="Vite" width="40" height="40"/>
-      <br/>Vite
+    <td align="center" width="90">
+      <img src="icons/prisma.svg" width="40" />
+      <br>Prisma
     </td>
   </tr>
 </table>
 
-<h3 align="center">🌱 Currently Learning</h3>
+## 🧠 State Management & Data Fetching
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" height="70" width="70">
-      <img src="icons/nodejs.svg" alt="Node.js" width="40" height="40"/>
-      <br/>Node.js
+    <td align="center" width="90">
+      <img src="icons/zustand.svg" width="40" />
+      <br>Zustand
+    </td>
+    <td align="center" width="90">
+      <img src="icons/redux.svg" width="40" />
+      <br>Redux Toolkit
+    </td>
+    <td align="center" width="90">
+      <img src="icons/tanstack.png" width="40" />
+      <br>TanStack Query
     </td>
   </tr>
 </table>
 
-## 🎯 Current Focus
+## ⚛️ React Ecosystem
 
-- Building full-stack applications
-- Strengthening React and TypeScript skills
-- Learning Node.js and backend development
-- Preparing for Frontend and Full Stack Developer roles
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="icons/react-router.svg" width="40" />
+      <br>React Router
+    </td>
+    <td align="center" width="90">
+      <img src="icons/react-hook-form.svg" width="40" />
+      <br>React Hook Form
+    </td>
+    <td align="center" width="90">
+      <img src="icons/zod.svg" width="40" />
+      <br>Zod
+    </td>
+  </tr>
+</table>
 
-<!-- ## 📈 GitHub Stats
+## 🛠️ Tools & Platforms
 
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="icons/git.svg" width="40" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="icons/vite.svg" width="40" />
+      <br>Vite
+    </td>
+    <td align="center" width="90">
+      <img src="icons/aws.svg" width="40" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="icons/figma.svg" width="40" />
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔗 Shawty — URL Shortener & Analytics Platform
+
+A modern URL shortening platform with analytics, QR code generation, custom aliases, click tracking, and dashboard insights.
+
+**Tech Stack:** Next.js, TypeScript, PostgreSQL, Drizzle ORM, Tailwind CSS
+
+---
+
+## 🎬 Movizz — Movie Discovery Platform
+
+Movie search and discovery platform featuring trending movies, detailed movie information pages, search functionality, and responsive UI.
+
+**Tech Stack:** React, TypeScript, TanStack Query, Tailwind CSS, Framer Motion
+
+---
+
+## 📱 InApp Clone
+
+A URL shortening and link management platform built during a development cohort to strengthen full-stack development skills.
+
+**Tech Stack:** React, TypeScript, Node.js
+
+---
+
+# 🎯 Current Focus
+
+* Building production-ready full-stack applications
+* Learning scalable backend architecture
+* Exploring AI and LLM integrations
+* Improving database design and performance
+* Preparing for Software Engineer and Full Stack Developer roles
+
+---
+
+# 🌱 Currently Learning
+
+* Backend Architecture
+* System Design Fundamentals
+* Scalable Web Applications
+* AI & LLM Integrations
+
+---
+
+<!-- GitHub Stats -->
+
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu951&show_icons=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu951&layout=compact" />
-</p> -->
+</p>
+-->
+
