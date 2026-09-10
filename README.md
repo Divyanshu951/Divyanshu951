@@ -123,8 +123,7 @@ URL shortening and link management platform built to strengthen full-stack devel
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Divyanshu951&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu951&layout=compact&hide_border=true" />
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Divyanshu951&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=Divyanshu951&langs_count=4&theme=tokyonight)
 </p>
 
 ---
