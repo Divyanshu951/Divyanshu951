@@ -17,39 +17,6 @@ Currently focused on creating production-ready products, exploring AI integratio
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔗 <a href="https://app.shawty.online/">Shawty</a>
-
-Modern URL Shortener & Analytics Platform.
-
-* Custom short links and aliases
-* QR code generation
-* Click analytics and tracking
-* Responsive dashboard
-* Authentication and link management
-
-**Tech Stack:** Next.js, TypeScript, PostgreSQL, Drizzle ORM, Tailwind CSS
-
-**Links:** [Live](https://app.shawty.online/) • [GitHub](https://github.com/Divyanshu951/shawty)
-
----
-
-### 🎬 <a href="https://movizz.divyanshudev.in">Movizz</a>
-
-Movie discovery platform with search, trending content, and detailed movie information.
-
-* Trending and popular movies
-* Advanced search experience
-* Responsive cinematic UI
-* Optimized data fetching
-
-**Tech Stack:** React, TypeScript, TanStack Query, Tailwind CSS, Framer Motion
-
-**Links:** [Live](https://movizz.divyanshudev.in) • [GitHub](https://github.com/Divyanshu951/movizz)
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -92,6 +59,40 @@ Movie discovery platform with search, trending content, and detailed movie infor
   <img src="icons/aws.svg" width="40" />
   <img src="icons/figma.svg" width="40" />
 </p>
+
+---
+
+
+## 🚀 Featured Projects
+
+### 🔗 <a href="https://app.shawty.online/">Shawty</a>
+
+Modern URL Shortener & Analytics Platform.
+
+* Custom short links and aliases
+* QR code generation
+* Click analytics and tracking
+* Responsive dashboard
+* Authentication and link management
+
+**Tech Stack:** Next.js, TypeScript, PostgreSQL, Drizzle ORM, Tailwind CSS
+
+**Links:** [Live](https://app.shawty.online/) • [GitHub](https://github.com/Divyanshu951/shawty)
+
+---
+
+### 🎬 <a href="https://movizz.divyanshudev.in">Movizz</a>
+
+Movie discovery platform with search, trending content, and detailed movie information.
+
+* Trending and popular movies
+* Advanced search experience
+* Responsive cinematic UI
+* Optimized data fetching
+
+**Tech Stack:** React, TypeScript, TanStack Query, Tailwind CSS, Framer Motion
+
+**Links:** [Live](https://movizz.divyanshudev.in) • [GitHub](https://github.com/Divyanshu951/movizz)
 
 ---
 
