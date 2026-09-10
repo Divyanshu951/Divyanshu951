@@ -46,22 +46,7 @@ Movie discovery platform with search, trending content, and detailed movie infor
 
 **Tech Stack:** React, TypeScript, TanStack Query, Tailwind CSS, Framer Motion
 
-**Links:** Live • GitHub
-
----
-
-### 🌐 <a href="YOUR_PROJECT_LINK">InApp Clone</a>
-
-URL shortening and link management platform built to strengthen full-stack development skills.
-
-* Link shortening
-* Dashboard experience
-* Authentication
-* Analytics features
-
-**Tech Stack:** React, TypeScript, Node.js
-
-**Links:** Live • GitHub
+**Links:** [Live](https://movizz.divyanshudev.in) • [GitHub](https://github.com/Divyanshu951/movizz)
 
 ---
 
