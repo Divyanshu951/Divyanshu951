@@ -120,10 +120,10 @@ URL shortening and link management platform built to strengthen full-stack devel
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Most Used Languages
 
 <p align="center">
- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Divyanshu951&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=Divyanshu951&langs_count=4&theme=tokyonight)
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Divyanshu951&langs_count=4&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
